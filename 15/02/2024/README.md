@@ -1,4 +1,4 @@
-# Daily Target Css Battle - 15/02/24
+# Daily Target Css Battle - 15/02/
 
 Code : 
 ```html
