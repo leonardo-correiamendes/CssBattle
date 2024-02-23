@@ -1,4 +1,4 @@
-# Daily Target Css Battle - 21/02/2024
+# Daily Target Css Battle - 22/02/2024
 
 [Leonardo Correia Mendes](https://github.com/leonardo-correiamendes)
 
