@@ -67,5 +67,5 @@
 # Code sans espaces : 
 
 ```html
-<a></a><b></b><c></c><d></d><style>*{background:#F48B26;position:fixed;margin:0;}a,b{background:#FFF;height:120;width:30;border-radius:9em;top:120;left:130;box-shadow:110px-60px 0px 0px #FFF;}b{rotate:90deg;top:35;left:156;}c,d{background:#FFF;height:30px;width:90px;border-radius:9em;top:120;left:100;box-shadow:110px 30px 0px 0px #FFF;}d{rotate:90deg;top:80;left:171;}</style>
+<a></a><b></b><c></c><d></d><style>*{background:#F48B26;position:fixed;margin:0;}a,b{background:#FFF;height:120;width:30;border-radius:9em;top:120;left:130;box-shadow:110px -60px 0px 0px #FFF;}b{rotate:90deg;top:35;left:156;}c,d{background:#FFF;height:30px;width:90px;border-radius:9em;top:120;left:100;box-shadow:110px 30px 0px 0px #FFF;}d{rotate:90deg;top:80;left:171;}</style>
 ```
