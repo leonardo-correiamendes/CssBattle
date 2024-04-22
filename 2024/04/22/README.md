@@ -67,4 +67,4 @@
 <a><b><c></c><d></d><e><style>*{background:#4F77FF;position:fixed}a,b,c,d{height:120;width:40;border:solid 22q#EFF8FE;border-radius:9em;top:70;left:160}b{left:260}c,d{rotate:90deg;top:30;left:20}d{top:110}e{height:300;width:60;top:60;left:0
 ```
 
-### Nombre de caractères : 40
+### Nombre de caractères : 240
